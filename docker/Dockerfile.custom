@@ -1,0 +1,8 @@
+FROM freqtradeorg/freqtrade:stable
+
+RUN apt-get update
+RUN apt-get install -y python3-dev
+
+USER ftuser
+
+RUN pip3 install --user wheel freqtrade ta pandas-ta pytest pytest-mock pytest-subtests
