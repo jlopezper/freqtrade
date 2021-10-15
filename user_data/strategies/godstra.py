@@ -64,7 +64,7 @@ class GodStra(IStrategy):
     }
 
     # Stoploss:
-    stoploss = -0.34549
+    stoploss = -0.05#-0.34549
 
     # Trailing stop:
     trailing_stop = True

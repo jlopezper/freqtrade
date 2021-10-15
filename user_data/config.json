@@ -1,7 +1,7 @@
 {
     "max_open_trades": 10,
     "stake_currency": "ETH",
-    "stake_amount": 0.5,
+    "stake_amount": 0.3,
     "tradable_balance_ratio": 0.99,
     "fiat_display_currency": "EUR",
     "timeframe": "1h",
@@ -42,11 +42,6 @@
         "min_trade_number": 10,
         "max_trade_duration_minute": 1440,
         "remove_pumps": false
-    },
-    "telegram": {
-        "enabled": false,
-        "token": "your_telegram_token",
-        "chat_id": "your_telegram_chat_id"
     },
     "api_server": {
         "enabled": false,
