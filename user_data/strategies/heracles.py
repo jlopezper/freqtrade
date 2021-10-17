@@ -54,7 +54,7 @@ class Heracles(IStrategy):
     stoploss = -0.25
 
     # Optimal timeframe use it in your config
-    timeframe = '4h'
+    timeframe = '1h'
 
     ########################################## END RESULT PASTE PLACE ######################################
 
