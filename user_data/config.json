@@ -1,7 +1,7 @@
 {
     "max_open_trades": 10,
     "stake_currency": "ETH",
-    "stake_amount": 0.3,
+    "stake_amount": 0.05,
     "tradable_balance_ratio": 0.99,
     "fiat_display_currency": "EUR",
     "timeframe": "1h",
